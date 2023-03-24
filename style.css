@@ -1,0 +1,38 @@
+form{
+    text-align: justify;
+}
+body{
+    background-image:url('C:\Users\ELCOT\Desktop\ideamarch tasks\task 1-Form validation\sign-member-login-form-glassmorphism-260nw-2210022101.webp') ;
+    font-weight: bold;
+    text-align: justify;
+    justify-content: center;
+    border: 50px solid rgb(231, 236, 227);
+    
+}
+h2{
+    background-color: rgb(99, 142, 177);
+    text-shadow: 10px;
+    color: white;
+    text-align: center;
+    background-size: contain;
+    border-color: rgb(43, 36, 36);
+    background-size: 0px;
+    animation-name: h2;
+    animation-duration: 30s;
+
+}
+@keyframes h2{
+    from{ background-color: rgb(231, 113, 192);}
+    to{background-color: rgb(255, 166, 0);}
+}
+label{
+    border-radius: 3%;
+}
+legend{
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+
+
